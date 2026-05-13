@@ -1,4 +1,4 @@
-{
+
   {
     "nodename": "madmartigan.local",
     "hostname": "madmartigan.local",
@@ -21,4 +21,3 @@
     "username": "endri",
     "description": "Rundeck server node"
   }
-}
