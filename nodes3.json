@@ -2,7 +2,7 @@
   "madmartigan.local": {
     "nodename": "madmartigan.local",
     "hostname": "madmartigan.local",
-    "tags": "local,server",
+    "tags": ["local", "server"],
     "osFamily": "unix",
     "osName": "Mac OS X",
     "osVersion": "10.10.3",
