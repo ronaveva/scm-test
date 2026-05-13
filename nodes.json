@@ -1,16 +1,4 @@
-{
-  "madmartigan.local": {
-    "tags": ["local", "server"],
-    "osFamily": "unix",
-    "username": "endri",
-    "osVersion": "10.10.3",
-    "osArch": "x86_64",
-    "description": "Rundeck server node",
-    "hostname": "madmartigan.local",
-    "nodename": "madmartigan.local",
-    "osName": "Mac OS X"
-  },
-  "test": {
+{"test": {
     "tags": ["alphabet", "soup"],
     "osFamily": "unix",
     "username": "endri",
