@@ -1,15 +1,27 @@
-{"test": {
-    "tags": ["alphabet", "soup"],
+[
+  {
+    "nodename": "madmartigan.local",
+    "hostname": "madmartigan.local",
+    "tags": "local,server",
     "osFamily": "unix",
-    "username": "endri",
+    "osName": "Mac OS X",
     "osVersion": "10.10.3",
     "osArch": "x86_64",
-    "description": "Rundeck server node",
-    "hostname": "192.168.33.12",
+    "username": "endri",
+    "description": "Rundeck server node"
+  },
+  {
     "nodename": "test",
+    "hostname": "192.168.33.12",
+    "tags": "alphabet,soup",
+    "osFamily": "unix",
     "osName": "Mac OS X",
+    "osVersion": "10.10.3",
+    "osArch": "x86_64",
+    "username": "endri",
+    "description": "Rundeck server node",
     "attributes": {
       "currentenv": "test"
     }
   }
-}
+]
