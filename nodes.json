@@ -19,9 +19,6 @@
     "osVersion": "10.10.3",
     "osArch": "x86_64",
     "username": "endri",
-    "description": "Rundeck server node",
-    "attributes": {
-      "currentenv": "test"
-    }
+    "description": "Rundeck server node"
   }
 ]
