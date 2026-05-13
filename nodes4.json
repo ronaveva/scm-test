@@ -8,6 +8,8 @@
     "osVersion": "10.10.3",
     "osArch": "x86_64",
     "username": "RODRIGO",
-    "description": "Rundeck server node"
+    "description": "Rundeck server node",
+    "attributes": {
+      "currentenv": "test"
   }
 }
