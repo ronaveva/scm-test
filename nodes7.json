@@ -12,5 +12,19 @@
       "description": "Rundeck server node",
       "currentenv": "test"
     }
+  },
+  "madmartigan.local1": {
+    "tags": ["local", "server"],
+    "attributes": {
+      "nodename": "madmartigan.local1",
+      "hostname": "madmartigan.local1",
+      "osFamily": "unix",
+      "osName": "Mac OS X",
+      "osVersion": "10.10.3",
+      "osArch": "x86_64",
+      "username": "RODRIGO",
+      "description": "Rundeck server node",
+      "currentenv": "test"
+    }
   }
 }
