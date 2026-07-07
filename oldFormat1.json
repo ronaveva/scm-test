@@ -1,0 +1,16 @@
+{
+  "OLD.madmartigan.local": {
+    "tags": ["OLD.local", "OLD.server"],
+    "attributes": {
+      "nodename": "OLD.madmartigan.local",
+      "hostname": "OLD.madmartigan.local",
+      "osFamily": "unix",
+      "osName": "Mac OS X",
+      "osVersion": "10.10.3",
+      "osArch": "x86_64",
+      "username": "endri",
+      "description": "Rundeck server node",
+      "currentenv": "test"
+    }
+  }
+}
